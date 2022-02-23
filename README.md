@@ -6,5 +6,5 @@ This is a complete functional quiz app that works on both Android and iOS device
 
 ### Quiz App Final UI
 
-
+![quiz](https://user-images.githubusercontent.com/36065206/155345963-dff037a1-307f-4a75-b07f-a9764ec82036.png)
 
